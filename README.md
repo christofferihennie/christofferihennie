@@ -1,6 +1,6 @@
 # Sa noen fullstack utvikler? Jeg foretekker fullsnack 🍎
 
-Hei! Jeg heter Christoffer og studere Infrormaikk ved Institutt for Informatikk på Universitetet i Oslo, og jeg er webansvarlig for [Ifi-Navet](https://ifinavet.no/organization).
+Hei! Jeg heter Christoffer og studerer en master i Informatikk ved Institutt for Informatikk på Universitetet i Oslo, og ansatt som utvikler hos Entrepedia AS.
 
 Jeg elsker å lære nye ting og å lage løsninger som minst en har bruk for.
 
@@ -12,7 +12,7 @@ Jeg elsker å lære nye ting og å lage løsninger som minst en har bruk for.
 ## Jeg prøver å lære meg...
 
 - Kotlin for backend applikasjoner. Har veldig lyst til å lære å bruke Kotlin til å lage en kraft og bra backend til noe. Må bare finne ut hva 🫠
-- Maskinlæring og Kustelig inteligens. Viste du at dette er veldig populært for tiden? Det har jeg også skjønt, så kanskje lurt å lære å lage noe slik... #IN3050🤖
+- Maskinlæring og Kustelig inteligens. Viste du at dette er veldig populært for tiden? Det har jeg også skjønt, så kanskje lurt å lære å lage noe slik.
 - Testing 😖. Jeg brude virkelig lære meg hvordan man gjør ende til ende testing på store webapplikasjoner.
 - Kubernetes og Docker. Kan litt, men det hadde vært gøy og nyttig å kunne det enda bedre. Tenk om kotlin backenden jeg tenker på å lage skal bli brukt av mange millioner 😅
 - Kafka. Har lest The Metamorphosis 🪲, men burde kanskje lære litt om Apache verktøyet også...
@@ -20,7 +20,7 @@ Jeg elsker å lære nye ting og å lage løsninger som minst en har bruk for.
 ## Hva jeg kan...
 
 ### Programmeringsspåk
-- 🐍 Python, ☕ Java, 🌐 Typescript/Javascript, ☕💜 Kotlin, Litt C #IN2140, #️⃣ C# og 🗄️ PostgreSQL
+- 🐍 Python, ☕ Java, 🌐 Typescript/Javascript, ☕💜 Kotlin, C, #️⃣ C# og 🗄️ PostgreSQL
 
 ### Teknologier og rammeverk
 - React og Next.js, utfordrende men gøy! Hvis du ser på prosjektene mine så skulle man kanskje tro jeg har en liten forkjærlighet for de.
