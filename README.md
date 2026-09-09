@@ -4,14 +4,14 @@ Hei! Jeg heter Christoffer og studerer en master i Informatikk ved Institutt for
 
 Jeg elsker å lære nye ting og å lage løsninger som minst en har bruk for.
 
-## Akkuratt nå jobber jeg med...
+## Akuratt nå jobber jeg med...
 
-- 🌳 [Yggdrasil](https://github.com/ifinavet/yggdrasil)! Foreningen IFI-Navet sin webplattform, og hvem vet kanskje den blir enda litt større...
 - 🃏 [Kort & Lang](https://github.com/christofferihennie/KortOgLang)! Har du noen gang spilt dette spillet? Mest sannsynlig ikke, men for de av oss som har så er denne webappen ganske kjekk.
+- 🍷 [Piccolo](https://github.com/A-og-C/Piccolo)! _Early workings_. Hvis du har mange flasker vin så syntes nå hvert fall jeg at det ikke finnes noen ordentlig god tjeneste for å holde styr på alle.
 
 ## Jeg prøver å lære meg...
 
-- Kotlin for backend applikasjoner. Har veldig lyst til å lære å bruke Kotlin til å lage en kraft og bra backend til noe. Må bare finne ut hva 🫠
+- Kotlin for backend applikasjoner. Har veldig lyst til å lære å bruke Kotlin til å lage en kraft og bra backend til noe.
 - Maskinlæring og Kustelig inteligens. Viste du at dette er veldig populært for tiden? Det har jeg også skjønt, så kanskje lurt å lære å lage noe slik.
 - Testing 😖. Jeg brude virkelig lære meg hvordan man gjør ende til ende testing på store webapplikasjoner.
 - Kubernetes og Docker. Kan litt, men det hadde vært gøy og nyttig å kunne det enda bedre. Tenk om kotlin backenden jeg tenker på å lage skal bli brukt av mange millioner 😅
